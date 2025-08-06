@@ -1,0 +1,6 @@
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/VariadicTemplates.dir
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/FoldExamples.dir
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/TestSub.dir
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/CallAllExample.dir
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/10424/Desktop/学习笔记/template/Variadic_templates/build/CMakeFiles/ZERO_CHECK.dir
