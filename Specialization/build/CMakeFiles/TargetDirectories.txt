@@ -1,3 +1,3 @@
-C:/Users/10424/Desktop/学习笔记/template/8.6/build/CMakeFiles/Specialization.dir
-C:/Users/10424/Desktop/学习笔记/template/8.6/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/10424/Desktop/学习笔记/template/8.6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/10424/Desktop/学习笔记/template/Specialization/build/CMakeFiles/Specialization.dir
+C:/Users/10424/Desktop/学习笔记/template/Specialization/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/10424/Desktop/学习笔记/template/Specialization/build/CMakeFiles/ZERO_CHECK.dir

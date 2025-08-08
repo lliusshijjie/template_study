@@ -1,6 +1,6 @@
-^C:\USERS\10424\DESKTOP\学习笔记\TEMPLATE\8.6\CMAKELISTS.TXT
+^C:\USERS\10424\DESKTOP\学习笔记\TEMPLATE\SPECIALIZATION\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/10424/Desktop/学习笔记/template/8.6 -BC:/Users/10424/Desktop/学习笔记/template/8.6/build --check-stamp-file C:/Users/10424/Desktop/学习笔记/template/8.6/build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/10424/Desktop/学习笔记/template/Specialization -BC:/Users/10424/Desktop/学习笔记/template/Specialization/build --check-stamp-file C:/Users/10424/Desktop/学习笔记/template/Specialization/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
